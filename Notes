@@ -1,0 +1,12 @@
+<center>
+  <h1>Web Technology </h1>
+  <a href="https://atom.io/"> Download Atom </a>
+  <h2>Heading 2 </h2>
+  <hr size=10
+        noshade>
+  <h3> Class is <br> very interesting</h3>
+  <h4>Heading 4 </h4>
+  <!-- This is
+ comment -->
+  <h5>Heading 5 </h5>
+  <h6>Heading 6 </h6>
